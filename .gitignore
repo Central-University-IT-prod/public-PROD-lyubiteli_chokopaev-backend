@@ -1,0 +1,14 @@
+mypy_cache/
+.vscode/
+venv/
+__pycache__/
+.env
+**/bin
+**/obj
+**/Properties
+**/*.sln
+.DS_Store
+events/Files
+.env
+**/node_modules
+**/dist
